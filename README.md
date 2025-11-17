@@ -587,7 +587,6 @@ npm test
 
 ## License
 
-ISC License - See LICENSE file for details
 
 ---
 
